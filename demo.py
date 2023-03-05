@@ -28,7 +28,7 @@ colors = ['blue', 'green', 'red', 'cyan', 'magenta', 'black','yellow','orange']
 graphic = 'yes'
 scenario = 10
 nbRep = 10
-horizon = 2000
+horizon = 1500
 
 if scenario == 0:
     # First scenario (default): Bernoulli experiment with ten arms
