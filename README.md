@@ -9,5 +9,8 @@ I just provide a small sample dataset. You can find a dataset from kaggle
 
 ## Requirements
 Python > 3.0
-(if any modules are missing, just pip install)
+```shell
+pip install -r requirements.txt
+```
+
 
